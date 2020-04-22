@@ -27,6 +27,6 @@ Copyright (C) 2010--2020 Olaf Bergmann <bergmann@tzi.org> and others
 export LD_LIBRARY_PATH=/usr/local/lib
 ```
 
-## 使用
-源码分析详情，请见 [libcoap 接口分析与 CoAP 协议开发](https://blog.csdn.net/song_lee/article/details/105653196)
+## 使用 libcoap 案例
+本案例以最新版 libcoap 为基础，源码分析详情，请见 [libcoap 接口分析与 CoAP 协议开发](https://blog.csdn.net/song_lee/article/details/105653196)
 
